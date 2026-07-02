@@ -1,5 +1,9 @@
 # Queue Manager
 
+vercel : - https://queue-manager-git-main-aakash-sainis-projects-568c5b02.vercel.app
+
+render :- https://queue-manager-bxwn.onrender.com
+
 A full-stack queue / token management app. A manager signs in, creates named
 queues (e.g. "Front Desk", "Pharmacy Counter"), adds people to a queue as
 tokens, reorders them, calls the next person up for service, cancels tokens,
